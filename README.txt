@@ -1,5 +1,4 @@
-Bachelor's project aimed at tokenization of human interactions in universities through a system of tokens and smart contracts that represent 
-grades, points, bonuses, tokens for coffee machines, rewards for tuition assistance between students, and so on.
+Bachelor's project aimed at tokenization of human interactions in universities through a system of tokens and smart contracts that represent grades, points, bonuses, tokens for coffee machines, rewards for tuition assistance between students, and so on.
 
 This is a research project that welcomes collaborations and teamwork!
 
